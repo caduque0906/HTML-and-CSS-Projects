@@ -1,2 +1,2 @@
 # HTML-and-CSS-Projects
-Here will be my HTML and CSS projects I have and/or are currently working on.
+Here will be all of my course work for the HTML and CSS course. I have and/or are currently working on.
