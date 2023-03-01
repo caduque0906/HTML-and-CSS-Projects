@@ -1,0 +1,17 @@
+tr {
+	text-align: left;
+	color: white;
+}
+table {
+	background-color: green;
+	border-style: solid;
+th {
+	font-size: 30;
+	text-decoration: underline;
+}
+a {
+	text-decoration: none;
+}
+a:hover {
+	background-color: red;
+}
